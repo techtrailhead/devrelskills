@@ -4,7 +4,7 @@ Use all 5 devrelskills to go from "new endpoint" to "fully launched" in 3-4 hour
 
 ## Scenario
 
-You're launching `POST /v2/bulk-import` — a new endpoint that imports up to 10,000 records per request.
+You're launching `POST /v2/bulk-import` which is a new endpoint that imports up to 10,000 records per request.
 
 ## Step 1: Audit existing docs
 
