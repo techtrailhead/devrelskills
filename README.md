@@ -120,7 +120,7 @@ devrelskills/
 
 ## Background
 
-Most marketing automation tools are optimized for conversion — moving someone from awareness to purchase. That works for B2C, but developers operate differently:
+Most marketing automation tools are optimized for conversion like moving someone from awareness to purchase. That works for B2C, but developers operate differently:
 
 - Code comes first, explanation second
 - Show, don't sell
