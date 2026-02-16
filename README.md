@@ -4,9 +4,9 @@ AI-powered skills for developer relations content. Adapted from [marketingskills
 
 ## What is this?
 
-A collection of Claude Code skills that generate **developer-appropriate content** — tutorials with working code, API documentation, technical newsletters, and social posts that developers actually want to read.
+A collection of Claude Code skills that generate **developer-appropriate content** from tutorials with working code, API documentation, technical newsletters, to social posts that developers actually want to read.
 
-Generic AI produces marketing fluff. These skills produce technical content.
+Generic AI produces marketing fluff but these skills will help you produce technical content.
 
 **Without skills:**
 > "Unlock the power of our revolutionary API! Streamline your workflow and leverage cutting-edge technology!"
