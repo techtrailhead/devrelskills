@@ -4,9 +4,9 @@
 
 ## The problem
 
-Most marketing automation tools — including AI-powered ones — are optimized for **conversion**. They move someone from awareness to consideration to purchase.
+Most marketing automation tools including AI-powered ones are optimized for **conversion**. They move someone from awareness to consideration to purchase.
 
-That works for B2C. But developer audiences operate differently.
+That works for B2C but developer audiences operate differently.
 
 ### What generic AI produces:
 
@@ -54,7 +54,7 @@ Most developer tools ship multiple features per month. This doesn't scale manual
 
 ## The solution: Skills adapted for developers
 
-[marketingskills](https://github.com/coreyhaines31/marketingskills) by Corey Haines provides 25 AI skills for marketing. The concept is right — detailed instruction files that teach Claude how to handle specific tasks.
+[marketingskills](https://github.com/coreyhaines31/marketingskills) by Corey Haines provides 25 AI skills for marketing. The concept is right with detailed instruction files that teach Claude how to handle specific tasks.
 
 The problem: they're built for traditional marketing. So we adapted them for DevRel.
 
@@ -89,7 +89,7 @@ cp -r skills/* ~/.claude/skills/
 Write a tutorial for adding authentication to a Next.js app
 ```
 
-You should get code-first output with prerequisites, working examples, error handling, and next steps — not marketing copy.
+You should get code-first output with prerequisites, working examples, error handling, and next steps.
 
 ---
 
